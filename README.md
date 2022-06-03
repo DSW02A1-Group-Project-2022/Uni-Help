@@ -1,3 +1,6 @@
+[group6.docx](https://github.com/DSW02A1-Group-Project-2022/Uni-Help/files/8835943/group6.docx)
+[L.A.M Microsoft PowerPoint Presentation.pptx](https://github.com/DSW02A1-Group-Project-2022/Uni-Help/files/8835944/L.A.M.Microsoft.PowerPoint.Presentation.pptx)
+[L.A.M-excel.xlsx](https://github.com/DSW02A1-Group-Project-2022/Uni-Help/files/8835945/L.A.M-excel.xlsx)
 # Uni-Help
 Online university applicatiion web app.
 
